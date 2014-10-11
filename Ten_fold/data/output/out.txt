@@ -1,0 +1,7 @@
+10 average cross validation result:
+Average Recall:	0.544086021505
+Average Precision:	0.784155400639
+Average ACC:	0.723483836495
+Average SP:	0.896542747058
+Average F_measure:	0.628452308312
+Average MCC:	0.458609756571
